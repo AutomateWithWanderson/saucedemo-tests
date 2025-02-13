@@ -28,4 +28,3 @@ test.describe("Login Tests", () => {
     await notification.validateInvalidCredentials();
   });
 });
- 

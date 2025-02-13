@@ -14,6 +14,7 @@ Este projeto contém testes automatizados para a página de login e o fluxo de c
 🛠 Ferramentas utilizadas:
 Playwright → Framework de testes end-to-end.
 JavaScript → Linguagem usada nos testes.
+<<<<<<< HEAD
 Page Object Model (POM) → Organização do código para facilitar manutenção.
 ===========================================================================================================================
 Fluxo de Login - SauceDemo
@@ -87,3 +88,6 @@ Sobrenome
 Código Postal (CEP)
 Avançar para a próxima etapa.
 Confirmar a exibição da mensagem de erro: "First Name is required"
+=======
+Page Object Patern → Padrão utilizado para estruturar os testes automatizados.
+>>>>>>> 2ed065c7de6adb4e7c93dc079b359c8eca5a4a00
